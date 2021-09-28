@@ -7,10 +7,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .col{
-  background-color: #023DF3;
+  background-color: #0D6EFD;
   border-radius: 4px;
-  outline: 0 !important;
-  border: none !important;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
